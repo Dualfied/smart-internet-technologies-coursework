@@ -71,7 +71,7 @@ Connect from client with limited bandwidth:
 
     iperf3 -c 192.168.1.182 -b 1M
 
-    <img width="940" height="587" alt="image" src="https://github.com/user-attachments/assets/f6286634-3142-4c38-8ef8-170cfd03e5ae" />
+<img width="940" height="587" alt="image" src="https://github.com/user-attachments/assets/f6286634-3142-4c38-8ef8-170cfd03e5ae" />
 
 
 This simulates congestion and forces DASH to adapt to lower bitrates.
